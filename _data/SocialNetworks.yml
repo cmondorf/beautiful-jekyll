@@ -61,6 +61,11 @@ instagram:
   baseURL: "https://www.instagram.com/"
   icon: "fa-instagram"
 
+kaggle:
+  name: "Kaggle"
+  baseURL: "https://www.kaggle.com/"
+  icon: "fa-kaggle"
+
 youtube:
   name: "YouTube"
   baseURL: "https://www.youtube.com/"
