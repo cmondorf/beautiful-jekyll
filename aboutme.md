@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A few words about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I come from a supply chain background but spend most of my time now helping people and machines learn from data. R and Python are my weapons of choice.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I've worked on four continents, mostly at the intersection between training/knowledge management, IT and supply chain management in both the private and humanitarian sectors.
 
-What else do you need?
+Languages are a source of endless fascination for me. I speak five of them fluently and learning Mandarin currently helps keep me busy.
 
-### my history
+I enjoy working as part of multidisciplinary teams.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I founded and help run the Hamburg R user group.
